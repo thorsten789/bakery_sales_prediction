@@ -1,2 +1,9 @@
 tensorflow>=2.12.0
 numpy>=1.21.0
+pandas
+seaborn
+matplotlib
+scikit-learn
+statsmodels
+scipy
+missingno
