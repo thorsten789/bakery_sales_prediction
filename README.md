@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-https://github.com/your_username/your_project_name
+<https://github.com/thorsten789/bakery_sales_prediction>
 
 ## Description
 
@@ -14,24 +14,24 @@ Regression
 
 ### Results Summary
 
--   **Best Model:** [Name of the best-performing model]
--   **Evaluation Metric:** MAPE
--   **Result by Category** (Identifier):
-    -   **Bread** (1): [XX]%
-    -   **Rolls** (2): [XX]%
-    -   **Croissant** (3): [XX]%
-    -   **Confectionery** (4): [XX]%
-    -   **Cake** (5): [XX]%
-    -   **Seasonal Bread** (6): [XX]%
+- **Best Model:** [Name of the best-performing model]
+- **Evaluation Metric:** MAPE
+- **Result by Category** (Identifier):
+  - **Bread** (1): [XX]%
+  - **Rolls** (2): [XX]%
+  - **Croissant** (3): [XX]%
+  - **Confectionery** (4): [XX]%
+  - **Cake** (5): [XX]%
+  - **Seasonal Bread** (6): [XX]%
 
 ## Documentation
 
-1.  [**Data Import and Preparation**](0_DataPreparation/)
-3.  [**Dataset Characteristics (Barcharts)**](1_DatasetCharacteristics/)
-4.  [**Baseline Model**](2_BaselineModel/)
-5.  [**Model Definition and Evaluation**](3_Model/)
-6.  [**Presentation**](4_Presentation/README.md)
+1. [**Data Import and Preparation**](0_DataPreparation/)
+1. [**Dataset Characteristics (Barcharts)**](1_DatasetCharacteristics/)
+1. [**Baseline Model**](2_BaselineModel/)
+1. [**Model Definition and Evaluation**](3_Model/)
+1. [**Presentation**](4_Presentation/README.md)
 
 ## Cover Image
 
-![](CoverImage/cover_image.png)
+![meteolytix forecast - what we do](CoverImage/cover_image.png)
