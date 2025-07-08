@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides]([DS&ML] Project report - Final.pdf)**
+**[Slides](Project report - Final)**
