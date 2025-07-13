@@ -14,15 +14,15 @@ Regression
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
+- **Best Model:** Neural Network
 - **Evaluation Metric:** MAPE
 - **Result by Category** (Identifier):
-  - **Bread** (1): [XX]%
-  - **Rolls** (2): [XX]%
-  - **Croissant** (3): [XX]%
-  - **Confectionery** (4): [XX]%
-  - **Cake** (5): [XX]%
-  - **Seasonal Bread** (6): [XX]%
+  - **Bread** (1): 18.97%
+  - **Rolls** (2): 11.98%
+  - **Croissant** (3): 18.77%
+  - **Confectionery** (4): 25.82%
+  - **Cake** (5): 14.44%
+  - **Seasonal Bread** (6): --%
 
 ## Documentation
 
