@@ -10,7 +10,7 @@ This project focuses on sales forecasting for a bakery branch, utilizing histori
 
 ### Task Type
 
-Regression
+Baseline linear regression model and more complex machine learning model for refined predictions, including comprehensive data preparation and visualization for time-series forecasting.
 
 ### Results Summary
 
